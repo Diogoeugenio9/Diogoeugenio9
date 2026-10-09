@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diogo 👋
 
-Desenvolvedor Full Stack .NET na **Prefeitura de Santana de Parnaíba**, atuando no desenvolvimento e na manutenção de sistemas web internos com C#, ASP.NET MVC e SQL Server. Estudante de Sistemas de Informação na UNIP (conclusão em dez/2026), com foco em back-end .NET, APIs REST e deploy em nuvem com Azure.
+Desenvolvedor Full Stack .NET na **Prefeitura de Santana de Parnaíba**, atuando no desenvolvimento e na manutenção de sistemas web internos com C#, ASP.NET MVC e SQL Server. Curso Sistemas de Informação na UNIP (conclusão em dez/2026). Meu foco é back-end .NET, APIs REST e deploy em nuvem com Azure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diogo--eugenio--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-eugenio-dev)
 [![Email](https://img.shields.io/badge/Email-diogoeugenio920%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diogoeugenio920@gmail.com)
